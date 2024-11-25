@@ -1,1 +1,1 @@
-Haskell notes for ICS cours
+Haskell notes for ICS course
